@@ -1,0 +1,16 @@
+PODS:
+  - EWScrollViewVerticalBar (0.0.1)
+
+DEPENDENCIES:
+  - EWScrollViewVerticalBar (from `../`)
+
+EXTERNAL SOURCES:
+  EWScrollViewVerticalBar:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  EWScrollViewVerticalBar: a1a12145f946b2be098c9a826455dd95dd8468c6
+
+PODFILE CHECKSUM: c68aa930ae0b96201bd3393523670ff4d4a679d9
+
+COCOAPODS: 1.8.4
